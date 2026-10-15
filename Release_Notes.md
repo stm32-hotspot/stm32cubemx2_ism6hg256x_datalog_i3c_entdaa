@@ -6,15 +6,15 @@ This example demonstrates how to use the ISM6HG256X part driver with STM32CubeMX
 
 # Update history
 
-<label for="collapse-v-1-0-0" aria-hidden="true">**1.0.0 / 10-July-2026**</label>
+<label for="collapse-v-1-0-1" aria-hidden="true">**1.0.1 / 14-October-2026**</label>
 <div>
 
 
 ## Main changes
 
-### First release
+### Patch release
 
-Initial release of the ISM6HG256X datalog_i3c_entdaa example for STM32CubeMX2.
+Update README file.
 
 ## Known limitations
 
